@@ -16,7 +16,7 @@ var c = j - k;
 document.write(c);
 
 document.write(" <br> ");
-document.write(" <br> ");
+document.write(" <br> ") ;
 
 var j = 100;
 var k = 50;
