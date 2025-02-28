@@ -4,7 +4,7 @@
 
 // Hoisting – Variables declared with var are hoisted to the top of their scope but are initialized as undefined until the code execution reaches the assignment. //
 
-// Re-declaration Allowed – You can re-declare the same variable within the same scope without errors. //
+// Re-declaration Allowed – You can re-declare the same variable within the same scope without errors. // 
 
 
 var Practice = "hello world <br>";
