@@ -162,11 +162,11 @@ if (o < p) {
 document.write(" <br> ");
 document.write(" <br> ");
 
-// var i=50;
-// var l=40;
-// if(i>l){
-//     document.write("CMS developer")
-// }
+var i=50;
+var l=40;
+if(i>l){
+    document.write("CMS developer")
+}
 
 document.write(" <br> ");
 document.write(" <br> ");
