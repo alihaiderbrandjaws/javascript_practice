@@ -475,5 +475,5 @@ let tween = gsap.to(".class", {
    id: "example",
    scrollTrigger: ".trigger",
 });
-      
+
       console.log(ScrollTrigger.getById("example").animation); 
